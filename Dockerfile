@@ -1,4 +1,4 @@
-ARG URL=https://github.com/sbt/sbt/releases/download/v1.6.1/sbt-1.6.1.tgz
+ARG URL=https://github.com/sbt/sbt/releases/download/v1.6.2/sbt-1.6.2.tgz
 
 FROM openjdk:8-alpine as downloader
 ARG URL
